@@ -18,6 +18,17 @@
 <p>I'm a Junior Web Developer from Indonesia.</p>
 
 <h4>
+  📌
+  Top Projects
+</h4>
+<div align="center">
+  <a href="">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rachmadsuharja&repo=PROREQ&show_owner=true&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rachmadsuharja&repo=MVIEMAX_LV&show_owner=true&theme=tokyonight" />
+  </a>
+</div>
+
+<h4>
   <img src="https://media.giphy.com/media/gRYTjQAs04Pfydymgc/giphy.gif" width="18" />
   My Stats
 </h4>
@@ -51,6 +62,5 @@
 </div>
 
 <h4>
-  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="30"> 
-  Connect with me
+  
 </h4>
