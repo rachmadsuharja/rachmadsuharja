@@ -27,11 +27,11 @@
   </a>
 </p>
 
-<h4>🌱 About Me</h4>
+<h4>👨 About Me</h4>
 <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="300" />
-<p>
-  I'm a <b>Junior Web Developer</b> from Indonesia.
-</p>
+<p>💻 I'm a <b>Junior Web Developer</b> from Indonesia.</p>
+<p>🌱 I'm currently learning <b>Laravel Framework</b>.</p>
+<p>📓 All my projects are available at <a href="https://github.com/rachmadsuharja?tab=repositories"><b>My Projects</b></a></p>
 
 <h4 align=center>
   📌
@@ -81,7 +81,6 @@
   <code><img height="20" alt="" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"> MySQL</code>
   <code><img height="20" alt="" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"> Github</code>
 </div>
-
 <br>
 
 <h4>
