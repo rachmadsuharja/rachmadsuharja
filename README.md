@@ -16,6 +16,7 @@
   <a href="https://facebook.com/harjakrepp">
     <img src="https://img.shields.io/badge/-Facebook-05122A?style=flat&logo=facebook" width="80">
   </a>
+  <br>
 </p>
 
 ***
@@ -27,18 +28,22 @@
 </p>
 
 <h4>🌱 About Me</h4>
-<p>I'm a Junior Web Developer from Indonesia.</p>
+<img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="300" />
+<p>
+  I'm a <b>Junior Web Developer</b> from Indonesia.
+</p>
 
-<h4>
+<h4 align=center>
   📌
   Top Projects
 </h4>
 <div align="center">
-  <a href="">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rachmadsuharja&repo=PROREQ&show_owner=true&theme=tokyonight" />
+  <a href="https://github.com/rachmadsuharja/PROREQ">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rachmadsuharja&repo=PROREQ&show_owner=true&theme=tokyonight" width="350" />
   </a>
-  <a href="">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rachmadsuharja&repo=MVIEMAX_LV&show_owner=true&theme=tokyonight" />
+  &nbsp;
+  <a href="https://github.com/rachmadsuharja/MVIEMAX_LV">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rachmadsuharja&repo=MVIEMAX_LV&show_owner=true&theme=tokyonight" width="350" />
   </a>
 </div>
 
@@ -52,6 +57,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rachmadsuharja&theme=github-dark-blue" alt="rachmadsuharja">
 </div>
 
+<br>
+
 <h4>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="18">
   Languages & Tools
@@ -63,7 +70,7 @@
   <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> Javascript</code>
 </div>
 <br>
-<div>
+<div width="100">
   <code><img height="20" alt="php" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"> PHP</code>
   <code><img height="20" alt="bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"> Bootstrap</code>
   <code><img height="20" alt="laravel" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"> Laravel</code>
@@ -74,6 +81,8 @@
   <code><img height="20" alt="" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"> MySQL</code>
   <code><img height="20" alt="" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"> Github</code>
 </div>
+
+<br>
 
 <h4>
   <img src="https://media.giphy.com/media/DnhfvCqrDXCaMWaFbQ/giphy.gif" width="26">
