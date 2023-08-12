@@ -5,6 +5,18 @@
 </h2>
 
 <h4 align="center">18 y.o || Still Learning Code</h4>
+<br>
+<p align="center">
+  <a href="https://instagram.com/harjakrepp_">
+    <img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" width="80">
+  </a>
+  <a href="https://discordapp.com/users/862002535610056734">
+    <img src="https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord" width="80">
+  </a>
+  <a href="https://facebook.com/harjakrepp">
+    <img src="https://img.shields.io/badge/-Facebook-05122A?style=flat&logo=facebook" width="80">
+  </a>
+</p>
 
 ***
 
@@ -24,6 +36,8 @@
 <div align="center">
   <a href="">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rachmadsuharja&repo=PROREQ&show_owner=true&theme=tokyonight" />
+  </a>
+  <a href="">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rachmadsuharja&repo=MVIEMAX_LV&show_owner=true&theme=tokyonight" />
   </a>
 </div>
@@ -62,5 +76,11 @@
 </div>
 
 <h4>
-  
+  <img src="https://media.giphy.com/media/DnhfvCqrDXCaMWaFbQ/giphy.gif" width="26">
+  Support Me
 </h4>
+<div>
+  <a href="https://paypal.me/rachmadsuharja">
+    <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" width="150" alt="Donate with PayPal" />
+  </a>
+</div>
