@@ -89,7 +89,7 @@
   Support Me
 </h4>
 <div>
-  <a href="https://paypal.me/rachmadsuharja" target="_blank">
+  <a href="https://paypal.me/rachmadsuharja">
     <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" width="150" alt="Donate with PayPal" />
   </a>
 </div>
