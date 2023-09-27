@@ -39,8 +39,8 @@
   Top Projects
 </h4>
 <div align="center">
-  <a href="https://github.com/rachmadsuharja/hummatech_company">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rachmadsuharja&repo=hummatech_company&show_owner=true&theme=tokyonight" width="350" />
+  <a href="https://github.com/rachmadsuharja/hummatech-company">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rachmadsuharja&repo=hummatech-company&show_owner=true&theme=tokyonight" width="350" />
   </a>
   &nbsp;
   <a href="https://github.com/rachmadsuharja/MVIEMAX_LV">
