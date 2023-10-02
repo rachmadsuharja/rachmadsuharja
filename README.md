@@ -34,6 +34,18 @@
 <p>🎵 My hobbies are <b>Singing & Listening Music</b></p>
 <p>📓 All my projects are available at <a href="https://github.com/rachmadsuharja?tab=repositories"><b>My Projects</b></a></p>
 
+<p align="center">
+  <a href="https://discord.gg/VzGNhtmmfB">
+<!--     <img src="https://discordapp.com/api/guilds/897534050170978344/widget.png?style=banner2" alt="Discord server"> -->
+  </a>
+  <a href="https://discord.com/users/862002535610056734">
+    
+  ![My Discord](https://discord-readme-badge.vercel.app/api?id=862002535610056734)
+  
+  </a>
+</p>
+
+
 <h4 align=center>
   📌
   Top Projects
