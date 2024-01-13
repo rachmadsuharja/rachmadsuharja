@@ -36,14 +36,6 @@
 
 <p align="center">
   <a href="https://discord.gg/VzGNhtmmfB">
-<!--     <img src="https://discordapp.com/api/guilds/897534050170978344/widget.png?style=banner2" alt="Discord server"> -->
-  </a>
-  <a href="https://discord.com/users/862002535610056734">
-    
-  ![My Discord](https://discord-readme-badge.vercel.app/api?id=862002535610056734)
-  
-  </a>
-  <a href="https://discord.gg/VzGNhtmmfB">
     <img src="https://discordapp.com/api/guilds/897534050170978344/widget.png?style=banner2" alt="Discord server">
   </a>
 </p>
