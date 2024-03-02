@@ -59,11 +59,34 @@
   <img src="https://media.giphy.com/media/gRYTjQAs04Pfydymgc/giphy.gif" width="18" />
   My Stats
 </h4>
+
+***
+  
+<details>
+<summary>Click Here for My Github Stats</summary>
+<br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rachmadsuharja&show_icons=true&theme=tokyonight" alt="rachmadsuharja">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachmadsuharja&show_icons=true&theme=tokyonight&layout=compact" alt="rachmadsuharja">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rachmadsuharja&theme=github-dark-blue" alt="rachmadsuharja">
+  <a href="https://github.com/rachmadsuharja">
+    <img alt="Achivements" src="https://github-profile-trophy.vercel.app/?username=rachmadsuharja&theme=radical" />
+  </a>
+  <a href="https://github.com/rachmadsuharja">
+    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=rachmadsuharja&show_icons=true&title_color=04ff00&text_color=2bff00&bg_color=121212&locale=en&show=reviews,discussions_started,prs_merged,prs_merged_percentage&card_width=1000px" />
+  </a>
+  <a href="https://github.com/rachmadsuharja">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=rachmadsuharja&show_icons=true&title_color=04ff00&text_color=2bff00&bg_color=121212&locale=en&card_width=900px&layout=compact" />
+  </a>
+  <a href="https://github.com/rachmadsuharja">
+    <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=rachmadsuharja&hide_border=false&background=121212&currStreakLabel=4760BB&sideLabels=4760BB&currStreakNum=FFFF00&dates=FFFF00&sideNums=04ff00&fire=FF0000&ring=04ff00&stroke=FFFFFFFF&card_width=695" />
+  </a>
+  <figure><embed src="https://wakatime.com/share/@harja/0445e445-744d-4016-9484-dd821487cbe1.svg"></embed></figure>
+
+***
+
+  <a href="https://github.com/rachmadsuharja">
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rachmadsuharja&bg_color=0D1117&color=ffffff&line=04ff00&point=ffffff&area=true&hide_border=true" />
+  </a>
 </div>
+</details>
 
 <br>
 
