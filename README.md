@@ -4,7 +4,7 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 </h2>
 
-<h4 align="center">18 y.o || Still Learning Code</h4>
+<h4 align="center">19 y.o || Still Learning Code</h4>
 <br>
 <p align="center">
   <a href="https://instagram.com/harjakrepp_">
