@@ -30,7 +30,7 @@
 <h4>👨 About Me</h4>
 <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="250" />
 <p>💻 I'm a <b>Junior Web Developer</b> from Indonesia.</p>
-<p>🌱 I'm currently learning <b>Laravel Framework, MERN Stack</b>.</p>
+<p>🌱 I'm currently learning <b>Laravel Framework, Golang</b>.</p>
 <p>🎵 My hobbies are <b>Singing & Listening Music</b></p>
 <p>📓 All my projects are available at <a href="https://github.com/rachmadsuharja?tab=repositories"><b>My Projects</b></a></p>
 
