@@ -4,122 +4,122 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 </h2>
 
-<h4 align="center">19 y.o || Still Learning Code</h4>
-<br>
+<h4 align="center">20 y.o • Always Exploring Code & Creativity</h4>
+
 <p align="center">
-  <a href="https://instagram.com/harjakrepp_">
-    <img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" width="80">
+  <a href="https://instagram.com/rachzas">
+    <img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" width="90">
   </a>
   <a href="https://discordapp.com/users/862002535610056734">
-    <img src="https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord" width="80">
+    <img src="https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord" width="90">
   </a>
   <a href="https://facebook.com/harjakrepp">
-    <img src="https://img.shields.io/badge/-Facebook-05122A?style=flat&logo=facebook" width="80">
+    <img src="https://img.shields.io/badge/-Facebook-05122A?style=flat&logo=facebook" width="90">
   </a>
-  <br>
 </p>
-
-***
 
 <p align="center">
   <a href="https://github.com/rachmadsuharja">
-    <img src="https://komarev.com/ghpvc/?username=rachmadsuharja&style=for-the-badge&label=PROFILE%20VIEWS&color=9e1a03&style=flat%22" alt="Rachmad Suharja" />
+    <img src="https://komarev.com/ghpvc/?username=rachmadsuharja&label=Profile%20Views&color=9e1a03&style=flat" alt="Profile views" />
   </a>
 </p>
 
-<h4>👨 About Me</h4>
-<img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="250" />
-<p>💻 I'm a <b>Junior Web Developer</b> from Indonesia.</p>
-<p>🌱 I'm currently learning <b>Laravel Framework, Golang</b>.</p>
-<p>🎵 My hobbies are <b>Singing & Listening Music</b></p>
-<p>📓 All my projects are available at <a href="https://github.com/rachmadsuharja?tab=repositories"><b>My Projects</b></a></p>
+---
+
+### 👨 Who Am I?
+<img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="500" align="right" />
+
+- 💻 I'm a tech enthusiast from **Indonesia**  
+- 🌱 Currently diving deeper into **React & Golang**  
+- 🎵 I chill with some good music and sing whenever i can.  
+- 📁 You can find all my projects [here](https://github.com/rachmadsuharja?tab=repositories)  
+- 💬 Let's connect on [Discord](https://discord.gg/VzGNhtmmfB)!
+
+---
+
+### 🧰 I Code Stuff. Here’s My Toolbox
+
+#### 🧠 Languages
+<div>
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" title="Go" />
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" />
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" />
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP" />
+</div>
+
+#### ⚙️ Backend & Runtime
+<div>
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" />
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" title="Express.js" />
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" title="Bun.js" />
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" title="Laravel" />
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original-wordmark.svg" title="Livewire" />
+</div>
+
+#### 🎨 Frontend
+<div>
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" title="Material UI" />
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" />
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" title="React" />
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" title="Vite" />
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" />
+</div>
+
+#### 🛢️ Databases
+<div>
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" />
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" />
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="MySQL" />
+</div>
+
+#### ☁️ DevOps & Cloud
+<div>
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" />
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" title="Docker" />
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" />
+</div>
+
+#### 🤖 AI/ML
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" />
+
+#### 🎨 Design Tools
+<div>
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original-wordmark.svg" title="Inkscape" />
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-line.svg" title="Adobe Illustrator" />
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" />
+</div>
+
+#### 💻 OS
+<div>
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" title="Arch Linux" />
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" title="Windows" />
+</div>
+
+---
+
+### 📈 My GitHub Hustle
 
 <p align="center">
-  <a href="https://discord.gg/VzGNhtmmfB">
-    <img src="https://discordapp.com/api/guilds/897534050170978344/widget.png?style=banner2" alt="Discord server">
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=rachmadsuharja&theme=radical" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rachmadsuharja&layout=compact&title_color=04ff00&text_color=2bff00&bg_color=121212" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=rachmadsuharja&show_icons=true&title_color=04ff00&text_color=2bff00&bg_color=121212" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rachmadsuharja&background=121212&currStreakLabel=04ff00&sideLabels=04ff00&dates=FFFF00&fire=FF0000" />
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rachmadsuharja&bg_color=0D1117&color=ffffff&line=04ff00&point=ffffff&area=true&hide_border=true" />
+  <br />
+  <figure>
+    <embed src="https://wakatime.com/share/@harja/0445e445-744d-4016-9484-dd821487cbe1.svg" />
+  </figure>
 </p>
 
+---
 
-<h4 align=center>
-  📌
-  Top Projects
-</h4>
-<div align="center">
-  <a href="https://github.com/rachmadsuharja/hummatech-company">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rachmadsuharja&repo=hummatech-company&show_owner=true&theme=tokyonight" width="350" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/rachmadsuharja/MVIEMAX_LV">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rachmadsuharja&repo=MVIEMAX_LV&show_owner=true&theme=tokyonight" width="350" />
-  </a>
-</div>
-
-<h4>
-  <img src="https://media.giphy.com/media/gRYTjQAs04Pfydymgc/giphy.gif" width="18" />
-  My Stats
-</h4>
-
-***
-  
-<details>
-<summary>Click Here for My Github Stats</summary>
-<br>
-<div align="center">
-  <a href="https://github.com/rachmadsuharja">
-    <img alt="Achivements" src="https://github-profile-trophy.vercel.app/?username=rachmadsuharja&theme=radical" />
-  </a>
-  <a href="https://github.com/rachmadsuharja">
-    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=rachmadsuharja&show_icons=true&title_color=04ff00&text_color=2bff00&bg_color=121212&locale=en&show=reviews,discussions_started,prs_merged,prs_merged_percentage&card_width=1000px" />
-  </a>
-  <a href="https://github.com/rachmadsuharja">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=rachmadsuharja&show_icons=true&title_color=04ff00&text_color=2bff00&bg_color=121212&locale=en&card_width=900px&layout=compact" />
-  </a>
-  <a href="https://github.com/rachmadsuharja">
-    <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=rachmadsuharja&hide_border=false&background=121212&currStreakLabel=4760BB&sideLabels=4760BB&currStreakNum=FFFF00&dates=FFFF00&sideNums=04ff00&fire=FF0000&ring=04ff00&stroke=FFFFFFFF&card_width=695" />
-  </a>
-  <figure><embed src="https://wakatime.com/share/@harja/0445e445-744d-4016-9484-dd821487cbe1.svg"></embed></figure>
-
-***
-
-  <a href="https://github.com/rachmadsuharja">
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rachmadsuharja&bg_color=0D1117&color=ffffff&line=04ff00&point=ffffff&area=true&hide_border=true" />
-  </a>
-</div>
-</details>
-
-<br>
-
-<h4>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="18">
-  Languages & Tools
-</h4>
-
-<div>
-  <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> HTML</code>
-  <code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> CSS</code>
-  <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> Javascript</code>
-</div>
-<br>
-<div width="100">
-  <code><img height="20" alt="php" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"> PHP</code>
-  <code><img height="20" alt="bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"> Bootstrap</code>
-  <code><img height="20" alt="laravel" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"> Laravel</code>
-</div>
-<br>
-<div>
-  <code><img height="20" alt="" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png"> VS Code</code>
-  <code><img height="20" alt="" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"> MySQL</code>
-  <code><img height="20" alt="" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"> Github</code>
-</div>
-<br>
-
-<h4>
-  <img src="https://media.giphy.com/media/DnhfvCqrDXCaMWaFbQ/giphy.gif" width="26">
-  Support Me
-</h4>
-<div>
+### ☕ Buy me a coffee
+<p>
   <a href="https://paypal.me/rachmadsuharja">
     <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" width="150" alt="Donate with PayPal" />
   </a>
-</div>
+</p>
