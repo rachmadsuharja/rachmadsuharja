@@ -30,10 +30,10 @@
 <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="500" align="right" />
 
 - 💻 I'm a tech enthusiast from **Indonesia**  
-- 🌱 Currently diving deeper into **React & Golang**  
+- 🌱 Currently diving deeper into **React**  
 - 🎵 I chill with some good music and sing whenever i can.  
 - 📁 You can find all my projects [here](https://github.com/rachmadsuharja?tab=repositories)  
-- 💬 Let's connect on [Discord](https://discord.gg/VzGNhtmmfB)!
+- 💬 Let's connect on [Discord](https://bit.ly/HaZone)!
 
 ---
 
