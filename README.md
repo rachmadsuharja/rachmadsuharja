@@ -4,7 +4,7 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 </h2>
 
-<h4 align="center">20 y.o • Always Exploring Code & Creativity</h4>
+<h4 align="center">21 y.o • Always Exploring Code & Creativity</h4>
 
 <p align="center">
   <a href="https://instagram.com/rachzas">
@@ -79,9 +79,6 @@
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" />
 </div>
 
-#### 🤖 AI/ML
-<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" />
-
 #### 🔧 Code Editors & Tools
 <div>
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="Visual Studio Code" />
@@ -99,29 +96,10 @@
 
 #### 💻 OS
 <div>
+  <img src="https://icongr.am/devicon/apple-original.svg?size=60&color=ffffff" height="60" />
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" title="Arch Linux" />
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" title="Windows" />
 </div>
-
----
-
-### 📈 My GitHub Hustle
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rachmadsuharja&theme=radical" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rachmadsuharja&layout=compact&title_color=04ff00&text_color=2bff00&bg_color=121212" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=rachmadsuharja&show_icons=true&title_color=04ff00&text_color=2bff00&bg_color=121212" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rachmadsuharja&background=121212&currStreakLabel=04ff00&sideLabels=04ff00&dates=FFFF00&fire=FF0000" />
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rachmadsuharja&bg_color=0D1117&color=ffffff&line=04ff00&point=ffffff&area=true&hide_border=true" />
-  <br />
-  <figure>
-    <embed src="https://wakatime.com/share/@harja/0445e445-744d-4016-9484-dd821487cbe1.svg" />
-  </figure>
-</p>
 
 ---
 
